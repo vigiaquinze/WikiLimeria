@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24px"
+   height="24px"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg1169"
+   sodipodi:docname="subin_icon.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1171"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="22.291667"
+     inkscape:cx="4.0822429"
+     inkscape:cy="10.676635"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Latest" />
+  <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title1101">A00_goal_icon </title>
+  <desc
+     id="desc1103">Created with Sketch.</desc>
+  <defs
+     id="defs1112">
+    <path
+       d="M12,22.5 C17.7989901,22.5 22.5,17.7989901 22.5,12 C22.5,6.20100984 17.7989901,1.5 12,1.5 C6.20100984,1.5 1.5,6.20100984 1.5,12 C1.5,17.7989901 6.20100984,22.5 12,22.5 Z"
+       id="path-1" />
+    <path
+       d="M10.5,21 C16.2989901,21 21,16.2989901 21,10.5 C21,4.70100984 16.2989901,0 10.5,0 C4.70100984,0 0,4.70100984 0,10.5 C0,16.2989901 4.70100984,21 10.5,21 Z"
+       id="path-2" />
+    <path
+       d="M10.5,21 C16.2989901,21 21,16.2989901 21,10.5 C21,4.70100984 16.2989901,0 10.5,0 C4.70100984,0 0,4.70100984 0,10.5 C0,16.2989901 4.70100984,21 10.5,21 Z"
+       id="path-4" />
+    <path
+       d="M10.5,21 C16.2989901,21 21,16.2989901 21,10.5 C21,4.70100984 16.2989901,0 10.5,0 C4.70100984,0 0,4.70100984 0,10.5 C0,16.2989901 4.70100984,21 10.5,21 Z"
+       id="path-6" />
+    <path
+       d="M10.5,21 C16.2989901,21 21,16.2989901 21,10.5 C21,4.70100984 16.2989901,0 10.5,0 C4.70100984,0 0,4.70100984 0,10.5 C0,16.2989901 4.70100984,21 10.5,21 Z"
+       id="path-8" />
+    <path
+       d="M10.5,21 C16.2989901,21 21,16.2989901 21,10.5 C21,4.70100984 16.2989901,0 10.5,0 C4.70100984,0 0,4.70100984 0,10.5 C0,16.2989901 4.70100984,21 10.5,21 Z"
+       id="path-10" />
+    <path
+       d="M10.5,21 C16.2989901,21 21,16.2989901 21,10.5 C21,4.70100984 16.2989901,0 10.5,0 C4.70100984,0 0,4.70100984 0,10.5 C0,16.2989901 4.70100984,21 10.5,21 Z"
+       id="path-12" />
+  </defs>
+  <g
+     id="Latest"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd">
+    <rect
+       style="fill:none;stroke-width:1.3;stroke-miterlimit:5;stroke:#00ff9c;stroke-opacity:1;stroke-dasharray:none"
+       id="rect195"
+       width="0.19032407"
+       height="20.420187"
+       x="11.482885"
+       y="1.6494752"
+       ry="0.09880735" />
+    <rect
+       style="fill:none;stroke-width:1.3;stroke-miterlimit:5;stroke:#00ff9c;stroke-opacity:1;stroke-dasharray:none"
+       id="rect195-7"
+       width="0.19032407"
+       height="11.448224"
+       x="9.294158"
+       y="-6.9929399"
+       ry="0.055394631"
+       transform="rotate(45)" />
+    <rect
+       style="fill:none;stroke-width:1.3;stroke-miterlimit:5;stroke:#00ff9c;stroke-opacity:1;stroke-dasharray:none"
+       id="rect195-7-8"
+       width="0.19032407"
+       height="11.448224"
+       x="-7.0737114"
+       y="9.4383707"
+       ry="0.055394631"
+       transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,0,0)" />
+  </g>
+  <metadata
+     id="metadata2633">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>A00_goal_icon </dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

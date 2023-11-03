@@ -1,0 +1,18 @@
+a{
+    text-decoration: none;
+    color: rgb(71, 71, 143);
+}
+.conteudoPrincipal{
+    width: 80%;
+    margin: 0px auto;
+}
+.wikiTable{
+    border: 1px solid #000;
+    margin: 1px;
+    border-collapse: collapse;
+    width: 100%;
+}
+.wikiTable > tr > th, .wikitable > tr > td, .wikiTable > * > tr > th, .wikiTable > * > tr > td {
+    border: 1px solid #a2a9b1;
+    padding: 0.2em 0.4em;
+}
